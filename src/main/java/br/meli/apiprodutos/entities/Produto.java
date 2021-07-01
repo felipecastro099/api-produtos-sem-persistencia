@@ -1,4 +1,4 @@
-package br.meli.apiprodutos.models;
+package br.meli.apiprodutos.entities;
 
 public class Produto {
     private Long id;

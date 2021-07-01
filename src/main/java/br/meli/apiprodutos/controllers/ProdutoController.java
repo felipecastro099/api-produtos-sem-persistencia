@@ -1,6 +1,6 @@
 package br.meli.apiprodutos.controllers;
 
-import br.meli.apiprodutos.models.Produto;
+import br.meli.apiprodutos.entities.Produto;
 import br.meli.apiprodutos.repositories.ProdutoRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

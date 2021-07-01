@@ -1,6 +1,6 @@
 package br.meli.apiprodutos.repositories;
 
-import br.meli.apiprodutos.models.Produto;
+import br.meli.apiprodutos.entities.Produto;
 
 import java.util.ArrayList;
 import java.util.HashMap;
